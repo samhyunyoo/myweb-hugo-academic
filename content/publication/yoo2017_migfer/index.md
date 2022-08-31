@@ -1,5 +1,5 @@
 ---
-title: 'Total Number of Births Shrinking Faster Than Fertility Rates'
+title: '이주여성의 출산력 수준: 얽힌 실타래 풀기'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
