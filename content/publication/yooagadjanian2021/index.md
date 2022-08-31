@@ -26,7 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 44(23): 537-562.
+publication: In *Demographic Research* 
 publication_short: 
 
 abstract: The scholarship on the association of religion and fertility has paid relatively little attention to East Asia, a region that has experienced rapid fertility declines. South Korea is an important setting to study this association as its fertility decreased dramatically and its population includes sizable shares of Buddhists, Catholics, and Protestants, as well as a large nonreligious segment. We analyze patterns of religious differentials in fertility and their changes between the era of near-replacement fertility and that of lowest-low fertility by relating these changing patterns to massive and rapid socioeconomic and cultural shifts in South Korean society. Using the pooled data from the 1985, 2005, and 2015 census samples, which cover the period of falling fertility first to near replacement and then to far below replacement levels, we fit zero-inflated Poisson models to test for differences in the number of children ever born between women with a religious affiliation and those without one as well as across religious affiliations. The findings shed light on the dynamic nature of the association between religious affiliation and reproduction in contexts of rapid and radical societal transformation by illustrating how evolving cultural meanings of religion may impact fertility outcomes. The Korean experience advances our understanding of the dynamic relationship between religion and fertility in the transition from high to low birth rates.
