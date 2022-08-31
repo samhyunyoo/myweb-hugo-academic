@@ -1,0 +1,93 @@
++++
+title = "Educational Differentials in Cohort Fertility during the Fertility Transition in South Korea"
+date = 2022-04-26T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = admin
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Demographic Research*"
+publication_short = "In *Dem Res*"
+
+# Abstract and optional shortened version.
+abstract = "While there has been a considerable amount of research on the association between women's education and fertility rates, few of these studies have examined the pattern of fertility differentials over the course of the fertility transition. As a country that has experienced a rapid decline in fertility and marked improvements in women's educational attainment over the last several decades, South Korea represents an ideal case for studying this dynamic association. \textbf{Objective}: The aim of the article is to explain the pattern of fertility differentials by level of education and the contribution of the changes in women's educational attainment to the fertility decline during the fertility transition in South Korea. \textbf{Methods}: Drawing upon data from the Korean censuses conducted between 1970 and 2010, I analyze completed cohort fertility for women born between 1926 and 1970 using demographic-decomposition techniques and cohort parity progression ratios by level of education. \textbf{Results}: The differences in fertility by educational attainment have gradually declined over the transition, with fertility almost converging at a low level among recent birth cohorts. Fertility in South Korea had been declining in all of the social groups until the sub-replacement fertility was reached. The change in women's educational attainment then became an important factor in the further decline in fertility. The trend toward fewer children quickly spread from the most educated to the least educated women throughout the fertility transition. \textbf{Conclusions}: The transformation of fertility behaviors across social strata has been a key element in the Korean fertility transition. Although educational expansion, particularly the introduction of mass education, has contributed to falling fertility in South Korea, the role of education in fertility decline is more pronounced in the diffusion of innovative ideas and behaviors, which reduced fertility differentials across social strata."
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = [""]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: '[**Sam Hyun Yoo**](https://samyoo.netlify.app)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+
