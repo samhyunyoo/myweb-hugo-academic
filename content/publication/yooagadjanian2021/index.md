@@ -1,18 +1,19 @@
 ---
-title: 'Total Number of Births Shrinking Faster Than Fertility Rates'
+title: 'The paradox of change: Religion and fertility decline in South Korea'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Victor Agadjanian
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - ''
 
 
-date: '2022-03-01T00:00:00Z'
+date: '2021-03-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asian Population Studies*
-publication_short: In *APS*
+publication: In *Demographic Research* 44(23): 537-562.
+publication_short: 
 
-abstract: South Korea’s total fertility rate reached 1.3 in 2001 and hit a record low (0.92) in 2019. The total number of births shrank even faster, recording a 45.9 per cent drop between 2001 and 2019. To understand the declining births and the contributing demographic factors, I decompose the change in the birth rate into mean generation size, fertility quantum, and tempo distortions, and evaluate their relative contributions to the decline. The remarkable birth decline since 2001 is largely explained by fertility quantum decline, especially for second births, and shrinking generation size caused by the decline in female population size. Tempo distortions were strong, but given the marginal change since 2001, they contributed less and only in recent years. This study highlights unique features of East Asia’s low fertility, such as continued fertility decline and the long-term negative effects of reproducing generations’ low fertility. Findings might have implications for developing countries experiencing rapid fertility decline.
+abstract: The scholarship on the association of religion and fertility has paid relatively little attention to East Asia, a region that has experienced rapid fertility declines. South Korea is an important setting to study this association as its fertility decreased dramatically and its population includes sizable shares of Buddhists, Catholics, and Protestants, as well as a large nonreligious segment. We analyze patterns of religious differentials in fertility and their changes between the era of near-replacement fertility and that of lowest-low fertility by relating these changing patterns to massive and rapid socioeconomic and cultural shifts in South Korean society. Using the pooled data from the 1985, 2005, and 2015 census samples, which cover the period of falling fertility first to near replacement and then to far below replacement levels, we fit zero-inflated Poisson models to test for differences in the number of children ever born between women with a religious affiliation and those without one as well as across religious affiliations. The findings shed light on the dynamic nature of the association between religious affiliation and reproduction in contexts of rapid and radical societal transformation by illustrating how evolving cultural meanings of religion may impact fertility outcomes. The Korean experience advances our understanding of the dynamic relationship between religion and fertility in the transition from high to low birth rates.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
