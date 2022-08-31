@@ -39,7 +39,7 @@ experience:
   - title: Associate Reserach Fallow 
     company: Korea Institue For Health and Social Affairs
     company_url: 'https://www.kihasa.re.kr/'
-    company_logo: kihasa.png
+    company_logo: "../../kihasa.png""
     location: California
     date_start: '2017-03-01'
     date_end: '2017-08-31'
