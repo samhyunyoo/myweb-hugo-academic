@@ -1,19 +1,21 @@
 ---
-title: 'Total Number of Births Shrinking Faster Than Fertility Rates'
+title: 'Old Habits Die Hard? Lingering Son Preference in an Era of Normalizing Sex Ratios at Birth in South Korea'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Sarah R. Hayford
+  - Victor Agadjanian
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - ''
 
 
-date: '2022-03-01T00:00:00Z'
-doi: ''
+date: '2016-05-01T00:00:00Z'
+doi: '10.1007/s11113-016-9405-1'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,13 +27,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asian Population Studies*
-publication_short: In *APS*
+publication: In *Population Research and Policy Review*
+publication_short: 
 
-abstract: South Korea’s total fertility rate reached 1.3 in 2001 and hit a record low (0.92) in 2019. The total number of births shrank even faster, recording a 45.9 per cent drop between 2001 and 2019. To understand the declining births and the contributing demographic factors, I decompose the change in the birth rate into mean generation size, fertility quantum, and tempo distortions, and evaluate their relative contributions to the decline. The remarkable birth decline since 2001 is largely explained by fertility quantum decline, especially for second births, and shrinking generation size caused by the decline in female population size. Tempo distortions were strong, but given the marginal change since 2001, they contributed less and only in recent years. This study highlights unique features of East Asia’s low fertility, such as continued fertility decline and the long-term negative effects of reproducing generations’ low fertility. Findings might have implications for developing countries experiencing rapid fertility decline.
+abstract: South Korea was among the first countries to report both an abnormally high sex ratio at birth (SRB) and its subsequent normalization. We examine the role of son preference in driving fertility intentions during a period of declining SRB and consider the contribution of individual characteristics and broader social context to explaining changes in intentions. We employ data from the National Survey on Fertility, Family Health and Welfare that span 1991\textendash 2012. We find that reported son preference declined to a great extent but remained substantial by the end of the observation period, and that the intention to have a third child still differed by sex of existing children. Change in individual-level factors does not explain the decline in son preference, suggesting that broad social changes were also important. This study provides a better understanding of how son preference evolves in the post-transitional context of very low fertility.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 

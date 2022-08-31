@@ -1,19 +1,21 @@
 ---
-title: 'Total Number of Births Shrinking Faster Than Fertility Rates'
+title: 'Understanding the Complexity of Ambivalence Toward Pregnancy: Does It Predict Inconsistent Use of Contraception?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Karren B. Guzzo
+  - Sarah R. Hayford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - ''
 
 
-date: '2022-03-01T00:00:00Z'
-doi: ''
+date: '2014-03-01T00:00:00Z'
+doi: 'https://doi.org/10.1080/19485565.2014.905193'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,13 +27,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asian Population Studies*
-publication_short: In *APS*
+publication: In *Biodemography and Social Biology* 60(1): 49-66.
+publication_short: 
 
-abstract: South Korea’s total fertility rate reached 1.3 in 2001 and hit a record low (0.92) in 2019. The total number of births shrank even faster, recording a 45.9 per cent drop between 2001 and 2019. To understand the declining births and the contributing demographic factors, I decompose the change in the birth rate into mean generation size, fertility quantum, and tempo distortions, and evaluate their relative contributions to the decline. The remarkable birth decline since 2001 is largely explained by fertility quantum decline, especially for second births, and shrinking generation size caused by the decline in female population size. Tempo distortions were strong, but given the marginal change since 2001, they contributed less and only in recent years. This study highlights unique features of East Asia’s low fertility, such as continued fertility decline and the long-term negative effects of reproducing generations’ low fertility. Findings might have implications for developing countries experiencing rapid fertility decline.
+abstract: Ambivalence towards future pregnancy is common and may increase the risk of unprotected sex and unintended pregnancy. We propose that ambivalent attitudes toward pregnancy consist of subtypes that are differentially associated with contraceptive use. Using data from a nationally representative survey of unmarried young adults (N = 1,147), we constructed four categories of ambivalence based on attitudes toward a hypothetical pregnancy. Multivariate analyses examined characteristics of ambivalence and the association between ambivalence and contraceptive use. Approximately one third of sexually active unmarried young adults are ambivalent about pregnancy. Having positive ambivalence (important to avoid a pregnancy but would be happy if it occurred) is associated with age, gender, education, and Hispanic origin. Although ambivalence toward pregnancy is associated with lower contraceptive use, this is true only among women with negative ambivalence (not important to avoid a pregnancy but would be unhappy if a pregnancy occurred). Attitudes toward pregnancy are multifaceted, and a more nuanced understanding of women’s attitudes toward pregnancy can help target prevention programs and related policies for women at risk of unintended pregnancy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
