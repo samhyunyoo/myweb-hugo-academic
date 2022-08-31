@@ -25,7 +25,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research*, 35(35), 1045-1078 
+publication: In *Demographic Research*
 publication_short: 
 
 abstract: 
