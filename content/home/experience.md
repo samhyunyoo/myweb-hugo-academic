@@ -41,9 +41,38 @@ experience:
     company_url: 'https://www.kihasa.re.kr/'
     company_logo: kihasa.png
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2017-03-01'
+    date_end: '2017-08-31'
+    description: 
+
+  - title: Assistant Professor 
+    company: Kongju National University 
+    company_url: 'https://www.kongju.ac.kr/kongju/index.do'
+    company_logo: 
+    location: Gongju, ChungcheongNamdo, South Korea
+    date_start: '2017-09-01'
+    date_end: '2019-08-31'
+    description: Department of Social Science Education
+    
+  - title: Assistant Professor 
+    company: Dongguk University 
+    company_url: 'https://www.dongguk.edu/main'
+    company_logo: 
+    location: Seoul, South Korea
+    date_start: '2019-09-01'
+    date_end: '2021-02-28'
+    description: Department of Sociology      
+    
+  - title: Assistant Professor 
+    company: Hanyang University 
+    company_url: 'https://www.hanyang.ac.kr/'
+    company_logo: 
+    location: Seoul, South Korea
+    date_start: '2021-03-01'
+    date_end: ''
+    description: Department of Sociology   
+
+
 
 design:
   columns: '2'
