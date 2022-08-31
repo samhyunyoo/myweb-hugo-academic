@@ -1,5 +1,5 @@
 ---
-title: 'Total Number of Births Shrinking Faster Than Fertility Rates'"'
+title: 'Total Number of Births Shrinking Faster Than Fertility Rates'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
