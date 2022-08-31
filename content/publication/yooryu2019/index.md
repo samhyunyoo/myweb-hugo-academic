@@ -1,18 +1,19 @@
 ---
-title: 'Total Number of Births Shrinking Faster Than Fertility Rates'
+title: '국제결혼 부부의 이혼분석'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - 유정균
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - ''
 
 
-date: '2022-03-01T00:00:00Z'
+date: '2019-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asian Population Studies*
-publication_short: In *APS*
+publication: In *한국인구학* 42(2): 25-50
+publication_short: 
 
-abstract: South Korea’s total fertility rate reached 1.3 in 2001 and hit a record low (0.92) in 2019. The total number of births shrank even faster, recording a 45.9 per cent drop between 2001 and 2019. To understand the declining births and the contributing demographic factors, I decompose the change in the birth rate into mean generation size, fertility quantum, and tempo distortions, and evaluate their relative contributions to the decline. The remarkable birth decline since 2001 is largely explained by fertility quantum decline, especially for second births, and shrinking generation size caused by the decline in female population size. Tempo distortions were strong, but given the marginal change since 2001, they contributed less and only in recent years. This study highlights unique features of East Asia’s low fertility, such as continued fertility decline and the long-term negative effects of reproducing generations’ low fertility. Findings might have implications for developing countries experiencing rapid fertility decline.
+abstract: 국제결혼 부부의 결혼안정성은 외국인 배우자의 적응과 사회적 통합이라는 측면에서 중요한의미를 갖는다. 이 논문은 우리 사회에서 한국인과 외국인의 결합으로 구성된 국제결혼 부부의결혼안정성이 한국인끼리 결합된 한국인 부부와 구별되는지를 확인하고 그 인과관계를 좀 더이해하기 위한 것이다. 2010-2016년 혼인과 이혼 동태통계 원자료를 활용하여 2010년 결혼코호트를 대상으로 이혼까지 걸린 시간을 이산시간위험모형(discrete-time hazard model)을 통해 분석하였다. 분석결과 남편 또는 아내의 출생국적이 한국이 아닌 외국일 경우 각각 양측 모두 한국인인 부부에 비해 이혼위험이 높은 것으로 나타났다. 남편 보다는 아내가 외국인일 경우 이혼위험이 상대적으로 더 높았으며, 남편과 아내의 교육수준과 혼인연령을 고려할 경우 두 집단의이혼위험 차이가 크게 감소하였다. 특히 외국인 남편과 아내의 출신 국적별로 세분화하였을 때, 남편의 출생국적이 미국, 아내의 출생국적인 베트남이나 캄보디아인 경우 한국인 남편과 아내보다 오히려 더 낮은 이혼위험을 갖는 것으로 나타났다. 논문의 결과는 국제결혼이 당연히 높은이혼위험과 연관되는 것은 아니며 출신국적과 혼인연령, 교육수준 등 다양한 요인을 함께 고려해야 함을 재확인시켜주고 있다.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
