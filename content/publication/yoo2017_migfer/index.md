@@ -33,7 +33,7 @@ abstract: 이 논문은 국내 이주여성의 출산력 수준을 파악하고 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [`Migrant`, `Fertility`, `Completed Fertility`, `Total Fertility Rate`, `Own-Children Method`, `Tempo Effect`]
+tags: [Migrant, Fertility, Completed Fertility, Total Fertility Rate, Own-Children Method, Tempo Effect]
 
 # Display this page in the Featured widget?
 featured: true
