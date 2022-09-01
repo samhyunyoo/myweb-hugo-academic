@@ -6,7 +6,7 @@ title: Sam Hyun Yoo
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor, Department of Sociology
+role: Assistant Professor of Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
