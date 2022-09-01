@@ -1,5 +1,5 @@
 ---
-title: Total number of births shrinking faster than fertility rates: fertility quantum decline and shrinking generation size in South Korea
+title: 'Total number of births shrinking faster than fertility rates: fertility quantum decline and shrinking generation size in South Korea'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
