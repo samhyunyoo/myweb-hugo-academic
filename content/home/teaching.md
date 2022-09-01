@@ -17,9 +17,6 @@ weight: 130
 title: Teaching
 subtitle: ''
 
-# Order that this section will appear in.
-weight: 60
-
 ---
 
 Courses at Hanyang Univeristy 
