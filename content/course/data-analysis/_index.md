@@ -172,7 +172,7 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 
 5.2. sign up and open your account at `github.com`
 
-## Further resources that might help installation:
+### More 
 
 Here are some links that cover the topic of installation and update of R on different OSs. 
 
