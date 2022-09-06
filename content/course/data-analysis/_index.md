@@ -59,12 +59,13 @@ You can just uninstall it **_Add or remove programs_** like any other program --
     
 0.2. Usernames with Latin characters 
 
-- As you may know, usernames with non-latin characters often generate encoding issues on `R` as in other softwares.
+- As you may know, usernames with non-latin characters often generate encoding issues on `R` as in other softwares.  
+
     - Note that non-latin characters indicate Chinese, Japanese and Korean (CJK languages). 
         
-- It might be okay with installing `R` and `RStudio` but problematic with installing `R packages`.
+- It might be okay with installing `R` and `RStudio` but problematic with installing `R packages`.  
         
-- Please change your username into one with latin-characters (e.g. alphabet), if necessary.
+- Please change your username into one with latin-characters (e.g. alphabet), if necessary.  
     
 0.3. Administrative rights
 
@@ -88,15 +89,15 @@ You need to install `R` first and then `RStudio` later -- not the other way arou
 
 1.2. Check your OS (Operating Systems) and click on the download link  
 
-- Windows: click on "Download R for Windows"
+- Windows: click on "Download R for Windows"  
     
-- macOS: click on "Download R for macOS" 
+- macOS: click on "Download R for macOS"   
     
 1.3. Download installation file
 
-- Windows: just click the linked text "install R for the first time" and download it
+- Windows: just click the linked text "install R for the first time" and download it  
     
-- macOS: check your macOS version again and choose a corresponding file 
+- macOS: check your macOS version again and choose a corresponding file  
     
 1.4. Double click the downloaded file (probably in your `Downloads` folder). Click "yes" to all prompts. 
 
@@ -116,6 +117,7 @@ Next, you need to install `RStudio` -- again, install `R` first!
 2.2. `RStudio` website detects your OS (macOS or Windows) and shows corresponding program for you. 
 
 2.3. Check and click the download button for your OS 
+
 - For your information, select "RStudio Desktop" free version. 
  
 2.4. Double click on the downloaded file and install it on your machine. 
@@ -148,9 +150,11 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 
 
 
-### 5. Optional, but recommended to install:
+### 5. Optional, but recommended:
 
-5.1. `git` [https://git-scm.com/downloads](https://git-scm.com/downloads) No other separate `git` program is required. We'll just use it from `Rstudio` a bit.
+5.1. Install `git` [https://git-scm.com/downloads](https://git-scm.com/downloads) 
+
+- No other separate `git` program is required. We'll just use it from `Rstudio` a bit.
 
 5.2. sign up and open your account at `github.com`
 
