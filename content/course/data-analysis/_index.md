@@ -48,11 +48,11 @@ There are several things to do before installation, especially if you are going 
 
 0.1. Uninstall `OneDrive` 
 
-    - In recent years, some of laptops (Windows) come with `OneDrive`. 
+- In recent years, some of laptops (Windows) come with `OneDrive`.   
     
-    - It used to generate errors when installing `R packages.` So far, I could not find any solution for this issue, but unstallation. 
+- It used to generate errors when installing `R packages.` So far, I could not find any solution for this issue, but unstallation. 
     
-    - Therefore, I recommend you uninstall it before installing R. 
+- Therefore, I recommend you uninstall it before installing R. 
     
 You can just uninstall it **_Add or remove programs_** like any other program -- Please refer to the [link](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
     
@@ -102,6 +102,8 @@ You need to install `R` first and then `RStudio` later -- not the other way arou
 1.4. Double click the downloaded file (probably in your `Downloads` folder). Click "yes" to all prompts. 
 
 1.5. For macOS users, you may need to download and install [XQuartz](https://www.xquartz.org/), depending on your version and systems. 
+
+
 
 ### 2. Install RStudio
 
@@ -157,11 +159,11 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 
 Here are some links that exhaustively cover the topic of installation and update of R on different platforms.
 
-* Install R and tidyverse for Mac, Windows. With some update guides
-[https://uvastatlab.github.io/phdplus/installR.html](https://uvastatlab.github.io/phdplus/installR.html)
-[https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
+* Install R and RStuido for macOS & Windows
+    - [MacOC users](https://www.reed.edu/data-at-reed/software/R/r_studio.html) 
+    - [PC (Windows) users](https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html)
 
-* Update R, R packages and R studio on different platforms 
+* Update R, R packages and R studio 
 [https://bootstrappers.umassmed.edu/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html](https://bootstrappers.umassmed.edu/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html)
 
 * Full tutorial for updating R on Windows with screenshots
