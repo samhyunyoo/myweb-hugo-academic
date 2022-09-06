@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+Basic information for selected courses; details will be posted on HY-IN LMS.
