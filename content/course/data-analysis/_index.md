@@ -17,7 +17,7 @@ tags: current
 - Class hours: Wed 1~4pm 
 - Class room: 303 Social Sciences 
 
-- Sam Hyun Yoo (Ph.D.), Assistant Professor of Sociology 
+- {{< mention "admin" >}}, Assistant Professor of Sociology 
 - email: samyoo@hanyang.ac.kr
 - Office: 408 Social Sciences
 
@@ -42,22 +42,35 @@ Upon successful completion of this course, students will
 
 ## Installation
 
-### 0. Things to check before installation 
+### 0. Prior 
 
 There are several things to do before installation, especially if you are going to use PC (Windows)
 
-1. Uninstall `OneDrive` 
+0.1. Uninstall `OneDrive` 
 
-    - In recent years, some of laptops (Windows) come with `OneDrive`. It used to generate errors when users install `R packages.` So far, I have not known any solution for this issue. Therefore, I recommend to uninstall it before installing R. You can just uninstall it **_Add or remove programs_** like any other program.
-    - Please check the [link](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-
-2. Change your username (Windows account) into new one with Latin characters 
-
-
-
+    - In recent years, some of laptops (Windows) come with `OneDrive`. 
+    - It used to generate errors when installing `R packages.` So far, I could not find any solution for this issue, but unstallation. 
+    - Therefore, I recommend you uninstall it before installing R. 
+    You can just uninstall it **_Add or remove programs_** like any other program--Please refer to the [link](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
     
     
+0.2. Usernames with Latin characters 
+
+    - As you may know, usernames with non-latin characters often generate encoding issues on `R` as in other softwares.
+        - Note that non-latin characters indicate Chinese, Japanese and Korean (CJK languages). 
+        - It might be okay with installing `R` and `RStudio` but problematic with installing `R packages`.
+    - Please change your username into one with latin-characters (e.g. alphabet), if necessary.
     
+0.3. Administrative rights
+
+    - You should have administrative rights to install `R`, `RStudio`, and `R packages`
+    - Please check whether you have such rights. 
+    Otherwise, contact the owner of your laptop. 
+    
+These are common issues I have encountered in the previous courses. 
+The first two things are pretty common for Windows users using Korean (or Chinese)
+If you experience any issue while installing `R` and `RStudio`, please check these again. 
+Otherwise, please let me know. 
     
 
 ### 1. Install R 
@@ -65,53 +78,51 @@ There are several things to do before installation, especially if you are going 
 In this course, we will use `R` and `RStudio`. 
 You need to install `R` first and then `RStudio` later -- not the other way around. 
 
-
-1. Please visit the CRAN (Collective R Archive Network)[^cran] website: <https://cran.r-project.org/>
-2. Check your OS (Operating Systems) and click on the download link  
+1.1. Please visit the CRAN (Collective R Archive Network)[^cran] website: <https://cran.r-project.org/>
+1.2. Check your OS (Operating Systems) and click on the download link  
     - Windows: "Download R for Windows"
     - macOS: "Download R for macOS" 
-3. Download installation file
+1.3. Download installation file
     - Windows: just click the linked text "install R for the first time" and download it
     - macOS: check your macOS version again and choose a corresponding file 
-4. Double click the downloaded file (probably in your `Downloads` folder). Click "yes" to all prompts. 
+1.4. Double click the downloaded file (probably in your `Downloads` folder). Click "yes" to all prompts. 
 
-5. For macOS users, you may need to download and install [XQuartz](https://www.xquartz.org/), depending on your version and systems. 
+1.5. For macOS users, you may need to download and install [XQuartz](https://www.xquartz.org/), depending on your version and systems. 
 
 ### 2. Install RStudio
 
-Next, you need to install RStudio, the nicer graphical user interface (GUI) for R (the dashboard). Once R and RStudio are both installed, you can ignore R and only use RStudio. RStudio will use R automatically and you won't ever have to interact with it directly.
-
-1. Go to the free download location on RStudio's website: <https://www.rstudio.com/products/rstudio/download/#download>
-2. The website should automatically detect your operating system (macOS or Windows) and show a big download button for it:
-
-    <img src="/img/install/install-r-rstudio1.png" width="50%" />
-    
-    If not, scroll down a little to the large table and choose the version of RStudio that matches your operating system.
-
-    <img src="/img/install/install-r-rstudio2.png" width="100%" />
-
-3. Double click on the downloaded file (again, check your `Downloads` folder). Click yes through all the prompts to install like any other program.
-
-Double click on RStudio to run it (check your applications folder or start menu).
+Next, you need to install `RStudio` -- again, install `R` first!
+`RStudio` is an integrated development environment (IDE) for R. Simply say, it helps you use `R` better in a more efficient way.  Once you install `R` and `RStudio` successfully, you will mostly use `RStudio` only-- RStudio uses R automatically. -- Think it as `stock market` and `stock trading app`.
 
 
-### Install `tidyverse`
 
-R packages are easy to install with RStudio. Select the packages panel, click on "Install," type the name of the package you want to install, and press enter.
+2.1. Go to the `RStudio` website and download page <https://www.rstudio.com/products/rstudio/download/#download>
 
-<img src="/img/install/install-r-package-panel.png" width="40%" />
+2.2. `RStudio` website detects your OS (macOS or Windows) and shows corresponding program for you. 
 
-This can sometimes be tedious when you're installing lots of packages, though. [The tidyverse](https://www.tidyverse.org/), for instance, consists of dozens of packages (including **ggplot2**) that all work together. Rather than install each individually, you can install a single magical package and get them all at the same time.
+2.3. Check and click the download button for your OS 
+    - For your information, select "RStudio Desktop" free version. 
+    - 
+2.4. Double click on the downloaded file and install it on your machine. 
 
-Go to the packages panel in RStudio, click on "Install," type "tidyverse", and press enter. You'll see a bunch of output in the RStudio console as all the tidyverse packages are installed.
-
-<img src="/img/install/install-r-tidyverse.png" width="60%" />
-
-Notice also that RStudio will generate a line of code for you and run it: `install.packages("tidyverse")`. You can also just paste and run this instead of using the packages panel.
+2.5. Start RStudio and check whether everything is okay. 
 
 
-### Install `tinytex`
+### 3. Install `tidyverse`
 
+In this course, we will focus on learning `tidyverse` package. 
+So, you need to install the `tidyverse` package on your `R` (actually you are going to install it on `RStudio`). 
+Think it as installing an mobile app on your smartphone. 
+
+- Please type `install.packages("tidyverse")` on your console and then press 'Enter`. 
+- Check whther all the tidyverse packages are installed.
+
+
+
+### 4. Install `tinytex`
+
+Depending on course schedule, we may (may not) use `RMarkdown`, which helps us to generate HTML and PDF files from `RStudio`.
+In such a process, R utilizes 
 When you knit to PDF, R uses a special scientific typesetting program named LaTeX (pronounced "lay-tek" or "lah-tex"; for goofy nerdy reasons, the x is technically the "ch" sound in "Bach", but most people just say it as "k"—saying "layteks" is frowned on for whatever reason).
 
 LaTeX is neat and makes pretty documents, but it's a huge program—[the macOS version, for instance, is nearly 4 GB](https://tug.org/mactex/mactex-download.html)! To make life easier, there's [an R package named **tinytex**](https://yihui.org/tinytex/) that installs a minimal LaTeX program and that automatically deals with differences between macOS and Windows.
@@ -150,24 +161,6 @@ Installation guide for r and rstudio for Windows
 
 RTools guide, for those still having problems on Windows:
 [https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s](https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s)
-
-👋❤️👉 📚 💬 🐦 💡
-
-
-
-## What you will learn
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
-
-## Program overview
-
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
-
-{{< list_children >}}
 
 ## Meet your instructor
 
