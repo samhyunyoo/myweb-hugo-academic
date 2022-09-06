@@ -12,7 +12,7 @@ tags: current
 {{< toc hide_on="xl" >}}
 
 
-## Course Information 
+## **Course Information** 
 
 - Class hours: Wed 1~4pm 
 - Class room: 303 Social Sciences 
@@ -22,18 +22,18 @@ tags: current
 - Office: 408 Social Sciences
 
 
-#### Course description
+### Course description
 
 This course is an introduction to the field of data analysis and visualization in sociology. It will guide you how to manage, analyze, and visualize quantitative data from diverse topics in sociology. This course is designed to learn the basic knowledge and usages of statistical software, such as Excel and R, in data wrangling, data analysis, and visualization. Basic computer skills are essential to successfully complete this course, though intermediate or advanced computer skills are preferred.
 
-#### Required prerequisite
+### Required prerequisite
 
 - CUL2004: Invitation to Sociology, or equivalent 
 - SOC2002: Social Statistics, or equivalent
 
 Otherwise, please contact the instructor before registering.
 
-#### Course objectives
+### Course objectives
 
 Upon successful completion of this course, students will  
 - Understand how to manage, analyze, and interpret quantitative data 
@@ -49,21 +49,28 @@ There are several things to do before installation, especially if you are going 
 0.1. Uninstall `OneDrive` 
 
     - In recent years, some of laptops (Windows) come with `OneDrive`. 
+    
     - It used to generate errors when installing `R packages.` So far, I could not find any solution for this issue, but unstallation. 
+    
     - Therefore, I recommend you uninstall it before installing R. 
-    You can just uninstall it **_Add or remove programs_** like any other program--Please refer to the [link](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+    
+You can just uninstall it **_Add or remove programs_** like any other program -- Please refer to the [link](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
     
     
 0.2. Usernames with Latin characters 
 
     - As you may know, usernames with non-latin characters often generate encoding issues on `R` as in other softwares.
+    
         - Note that non-latin characters indicate Chinese, Japanese and Korean (CJK languages). 
+        
         - It might be okay with installing `R` and `RStudio` but problematic with installing `R packages`.
+        
     - Please change your username into one with latin-characters (e.g. alphabet), if necessary.
     
 0.3. Administrative rights
 
     - You should have administrative rights to install `R`, `RStudio`, and `R packages`
+    
     - Please check whether you have such rights. 
     Otherwise, contact the owner of your laptop. 
     
@@ -79,12 +86,19 @@ In this course, we will use `R` and `RStudio`.
 You need to install `R` first and then `RStudio` later -- not the other way around. 
 
 1.1. Please visit the CRAN (Collective R Archive Network)[^cran] website: <https://cran.r-project.org/>
+
 1.2. Check your OS (Operating Systems) and click on the download link  
+
     - Windows: "Download R for Windows"
+    
     - macOS: "Download R for macOS" 
+    
 1.3. Download installation file
+
     - Windows: just click the linked text "install R for the first time" and download it
+    
     - macOS: check your macOS version again and choose a corresponding file 
+    
 1.4. Double click the downloaded file (probably in your `Downloads` folder). Click "yes" to all prompts. 
 
 1.5. For macOS users, you may need to download and install [XQuartz](https://www.xquartz.org/), depending on your version and systems. 
@@ -114,33 +128,30 @@ In this course, we will focus on learning `tidyverse` package.
 So, you need to install the `tidyverse` package on your `R` (actually you are going to install it on `RStudio`). 
 Think it as installing an mobile app on your smartphone. 
 
-- Please type `install.packages("tidyverse")` on your console and then press 'Enter`. 
-- Check whther all the tidyverse packages are installed.
+3.1. Please type `install.packages("tidyverse")` on your console and then press 'Enter`. 
+
+3.2. Check whther all the tidyverse packages are installed.
 
 
 
 ### 4. Install `tinytex`
 
 Depending on course schedule, we may (may not) use `RMarkdown`, which helps us to generate HTML and PDF files from `RStudio`.
-In such a process, R utilizes 
-When you knit to PDF, R uses a special scientific typesetting program named LaTeX (pronounced "lay-tek" or "lah-tex"; for goofy nerdy reasons, the x is technically the "ch" sound in "Bach", but most people just say it as "k"—saying "layteks" is frowned on for whatever reason).
+In such a process, R uses `LaTeX`, an open-source special scientific typesetting program. There are several software of `LaTeX`, such as `TexLive` and `MikTex`. However, those are independent software with heavy volume. `TinyTex` is another R package of a light LaTex program. 
 
-LaTeX is neat and makes pretty documents, but it's a huge program—[the macOS version, for instance, is nearly 4 GB](https://tug.org/mactex/mactex-download.html)! To make life easier, there's [an R package named **tinytex**](https://yihui.org/tinytex/) that installs a minimal LaTeX program and that automatically deals with differences between macOS and Windows.
+4.1. type and run `install.packages("tinytex")` in the console.
 
-Here's how to install **tinytex** so you can knit to pretty PDFs:
+4.2. Run `tinytex::install_tinytex()` in the console.
 
-1. Use the Packages in panel in RStudio to install **tinytex** like you did above with **tidyverse**. Alternatively, run `install.packages("tinytex")` in the console.
-2. Run `tinytex::install_tinytex()` in the console.
-3. Wait for a bit while R downloads and installs everything you need.
-4. The end! You should now be able to knit to PDF.
+4.3. R will download and install everything you need.
 
 
-* Rstudio Desktop, preview version [https://www.rstudio.com/products/rstudio/download/preview/](https://www.rstudio.com/products/rstudio/download/preview/)
-Installing this will automatically install the latest `R` version `4.1.0`, which we need.
 
-optional, but recommended to install:
-* `git` [https://git-scm.com/downloads]()https://git-scm.com/downloads No need for a separate `git` program. We'll just use it from `Rstudio` a bit.
-* `latex` [https://www.latex-project.org/get/](https://www.latex-project.org/get/)  Alternatively we can install it straight from `R` using the `tinytex` package.
+### 5. Optional, but recommended to install:
+
+5.1. `git` [https://git-scm.com/downloads](https://git-scm.com/downloads) No other separate `git` program is required. We'll just use it from `Rstudio` a bit.
+
+5.2. sign up and open your account at `github.com`
 
 ## Further resources that might help installation:
 
@@ -161,19 +172,3 @@ Installation guide for r and rstudio for Windows
 
 RTools guide, for those still having problems on Windows:
 [https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s](https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s)
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-Yes, there are. 1) Any introductory course to sociology (ex., Introduction to Sociology) and 2) Any statistics at undergraduate levels (ex., Social Statistics) 
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Once a week, three credits
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="hanyang.ac.kr" >}}
