@@ -50,8 +50,34 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
-+++
+# SOC3035 DATA ANALYSIS 
+
+## Course Information 
+
+- Class hours: Wed 1~4pm 
+- Class room: 303 Social Sciences 
+
+- Sam Hyun Yoo (Ph.D.), Assistant Professor of Sociology 
+- email: samyoo@hanyang.ac.kr
+- Office: 408 Social Sciences
+
+## Course Overview
+
+### Course description
+
+This course is an introduction to the field of data analysis and visualization in sociology. It will guide you how to manage, analyze, and visualize quantitative data from diverse topics in sociology. This course is designed to learn the basic knowledge and usages of statistical software, such as Excel and R, in data wrangling, data analysis, and visualization. Basic computer skills are essential to successfully complete this course, though intermediate or advanced computer skills are preferred.
+
+### Required prerequisite
+
+CUL2004 Invitation to Sociology & SOC2002 Social Statistics or equivalent;
+Otherwise, please contact the instructor before registering.
+
+### Course objectives
+
+Upon successful completion of this course, students will
+- Understand how to manage, analyze, and interpret quantitative data.
+- Have practical knowledge and senses of how to present quantitative data through effecti
+
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -103,7 +129,11 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+# SOC3035: DATA ANALYSIS
+
+## Information 
+
+
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
@@ -185,7 +215,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## 👋❤️👉 📚 💬 🐦 💡⬆️ Welcome to the Academic Template
 
 - 👉 [**Get Started**](https://wowchemy.com/docs/install/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
@@ -267,3 +297,5 @@ Installation guide for r and rstudio for Windows
 
 RTools guide, for those still having problems on Windows:
 [https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s](https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s)
+
+👋❤️👉 📚 💬 🐦 💡
