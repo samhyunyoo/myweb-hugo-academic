@@ -59,19 +59,18 @@ You can just uninstall it **_Add or remove programs_** like any other program --
     
 0.2. Usernames with Latin characters 
 
-    - As you may know, usernames with non-latin characters often generate encoding issues on `R` as in other softwares.
-    
-        - Note that non-latin characters indicate Chinese, Japanese and Korean (CJK languages). 
+- As you may know, usernames with non-latin characters often generate encoding issues on `R` as in other softwares.
+    - Note that non-latin characters indicate Chinese, Japanese and Korean (CJK languages). 
         
-        - It might be okay with installing `R` and `RStudio` but problematic with installing `R packages`.
+- It might be okay with installing `R` and `RStudio` but problematic with installing `R packages`.
         
-    - Please change your username into one with latin-characters (e.g. alphabet), if necessary.
+- Please change your username into one with latin-characters (e.g. alphabet), if necessary.
     
 0.3. Administrative rights
 
-    - You should have administrative rights to install `R`, `RStudio`, and `R packages`
+- You should have administrative rights to install `R`, `RStudio`, and `R packages`
     
-    - Please check whether you have such rights. 
+- Please check whether you have such rights. 
     Otherwise, contact the owner of your laptop. 
     
 These are common issues I have encountered in the previous courses. 
@@ -89,15 +88,15 @@ You need to install `R` first and then `RStudio` later -- not the other way arou
 
 1.2. Check your OS (Operating Systems) and click on the download link  
 
-    - Windows: "Download R for Windows"
+- Windows: click on "Download R for Windows"
     
-    - macOS: "Download R for macOS" 
+- macOS: click on "Download R for macOS" 
     
 1.3. Download installation file
 
-    - Windows: just click the linked text "install R for the first time" and download it
+- Windows: just click the linked text "install R for the first time" and download it
     
-    - macOS: check your macOS version again and choose a corresponding file 
+- macOS: check your macOS version again and choose a corresponding file 
     
 1.4. Double click the downloaded file (probably in your `Downloads` folder). Click "yes" to all prompts. 
 
@@ -117,8 +116,8 @@ Next, you need to install `RStudio` -- again, install `R` first!
 2.2. `RStudio` website detects your OS (macOS or Windows) and shows corresponding program for you. 
 
 2.3. Check and click the download button for your OS 
-    - For your information, select "RStudio Desktop" free version. 
-    - 
+- For your information, select "RStudio Desktop" free version. 
+ 
 2.4. Double click on the downloaded file and install it on your machine. 
 
 2.5. Start RStudio and check whether everything is okay. 
