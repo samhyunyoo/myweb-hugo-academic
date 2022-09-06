@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: Courses
 type: page
 tags:
   - preface

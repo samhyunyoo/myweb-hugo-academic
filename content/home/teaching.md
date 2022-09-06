@@ -22,7 +22,7 @@ subtitle: ''
 Courses at Hanyang Univeristy 
 
 - Undergraduate courses 
-    - Data Analysis 
+    - [Data Analysis](../course/data-analysis/) 
     - Social Problems
     - Practice in Social Surveys
     - Introduction to Population Studies
