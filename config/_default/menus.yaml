@@ -28,7 +28,7 @@ main:
   - name: Data Analysis
     PageRef: course/data-analysis/_index.md
     weight: 10
-    parent: courses
+    parent: Courses
   - name: CV
     url: uploads/CV.pdf
     weight: 80
