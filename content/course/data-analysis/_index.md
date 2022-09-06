@@ -12,6 +12,11 @@ tags: current
 {{< toc hide_on="xl" >}}
 
 
+{{% callout note %}}
+Course materials (slides) and assignment will be posted on *HY-ON*, an LMS at Hanyng University.
+{{% /callout %}}
+
+
 ## **Course Information** 
 
 - Class hours: Wed 1~4pm 
@@ -42,7 +47,7 @@ Upon successful completion of this course, students will
 
 ### Course syllabus 
 
-Please check [Course syllabus]
+Please check {{< staticref "uploads/DataAnalysis2022_syllabus.pdf" "newtab" >}}Course syllabus{{< /staticref >}}.
 
 ### Course slides 
 
