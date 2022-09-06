@@ -85,7 +85,7 @@ Otherwise, please let me know.
 In this course, we will use `R` and `RStudio`. 
 You need to install `R` first and then `RStudio` later -- not the other way around. 
 
-1.1. Please visit the CRAN (Collective R Archive Network)[^cran] website: <https://cran.r-project.org/>
+1.1. Please visit the CRAN (Collective R Archive Network) website: <https://cran.r-project.org/>
 
 1.2. Check your OS (Operating Systems) and click on the download link  
 
