@@ -160,20 +160,20 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 
 ## Further resources that might help installation:
 
-Here are some links that exhaustively cover the topic of installation and update of R on different platforms.
+Here are some links that cover the topic of installation and update of R on different OSs. 
 
 * Install R and RStuido for macOS & Windows
     - [MacOC users](https://www.reed.edu/data-at-reed/software/R/r_studio.html) 
     - [PC (Windows) users](https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html)
 
 * Update R, R packages and R studio 
-[https://bootstrappers.umassmed.edu/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html](https://bootstrappers.umassmed.edu/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html)
+[here](https://bootstrappers.umassmed.edu/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html)
 
-* Full tutorial for updating R on Windows with screenshots
-[https://www.r-statistics.com/2015/06/a-step-by-step-screenshots-tutorial-for-upgrading-r-on-windows/](https://www.r-statistics.com/2015/06/a-step-by-step-screenshots-tutorial-for-upgrading-r-on-windows/)
+* Tutorial on updating R on Windows with screenshots
+[here](https://www.r-statistics.com/2015/06/a-step-by-step-screenshots-tutorial-for-upgrading-r-on-windows/)
 
-Installation guide for r and rstudio for Windows
-[https://www.youtube.com/watch?v=NZxSA80lF1I&ab_channel=TechDecodeTutorials](https://www.youtube.com/watch?v=NZxSA80lF1I&ab_channel=TechDecodeTutorials)
+* Video guide for installing R and RStudio for Windows
+[here](https://www.youtube.com/watch?v=NZxSA80lF1I&ab_channel=TechDecodeTutorials)
 
-RTools guide, for those still having problems on Windows:
-[https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s](https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s)
+* RTools guide for Windows:
+[here](https://www.youtube.com/watch?v=FXWLR2DGgI8&t=34s)
