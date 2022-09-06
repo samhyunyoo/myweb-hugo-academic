@@ -118,7 +118,7 @@ Next, you need to install `RStudio` -- again, install `R` first!
 
 2.3. Check and click the download button for your OS 
 
-- For your information, select "RStudio Desktop" free version. 
+- For your information, select "RStudio Desktop" free version (if necessary). 
  
 2.4. Double click on the downloaded file and install it on your machine. 
 
@@ -163,7 +163,7 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 Here are some links that cover the topic of installation and update of R on different OSs. 
 
 * Install R and RStuido for macOS & Windows
-    - [MacOC users](https://www.reed.edu/data-at-reed/software/R/r_studio.html) 
+    - [MacOS users](https://www.reed.edu/data-at-reed/software/R/r_studio.html) 
     - [PC (Windows) users](https://www.reed.edu/data-at-reed/software/R/r_studio_pc.html)
 
 * Update R, R packages and R studio 
