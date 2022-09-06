@@ -1,6 +1,6 @@
 ---
 title: "SOC3035 DATA ANALYSIS"
-linkTitle: Data Science
+linkTitle: DATA ANALYSIS
 date: "2022-09-01"
 summary: Course Overview of Data Analysis 
 type: book
