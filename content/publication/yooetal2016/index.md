@@ -1,21 +1,21 @@
 ---
-title: 'Migration, legality, and fertility regulation: Abortion and contraception among migrants and natives in Russia'
+title: 'Old Habits Die Hard? Lingering Son Preference in an Era of Normalizing Sex Ratios at Birth in South Korea'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Victor Agadjanian
   - admin
+  - Sarah R. Hayford
+  - Victor Agadjanian
 
 # Author notes (optional)
 author_notes:
-  - 'corresponding author'
   - ''
 
 
-date: '2018-04-01T00:00:00Z'
-doi: '10.4054/DemRes.2018.38.42'
+date: '2016-05-01T00:00:00Z'
+doi: '10.1007/s11113-016-9405-1'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,10 +27,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 38(42), 1277-1302
-publication_short: In *APS*
+publication: In *Population Research and Policy Review* 36, 25-54
+publication_short: 
 
-abstract: Migrant-vs.-native differentials in reproductive behavior are typically examined through the prism of socioeconomic and cultural constraints that characterize the migration process and experiences. However, the literature seldom factors in migrant legal status because necessary data is rarely available. The study seeks to fill this important gap by looking at variations in induced abortion and contraceptive use not only between migrants and nonmigrants but also among migrants of different legal statuses in the Russian Federation. We use unique survey data collected in urban Russia from Central Asian working migrant women of different legal statuses – regularized vs. irregular – as well as their native counterparts. Binomial and multinomial logistic regressions are fitted to model abortion experience and current contraceptive use and method choice. The results point to higher overall use of abortion among natives, but also to significant differences between migrants with regularized and irregular legal statuses. With respect to contraception, while no variation in overall use between migrants and natives or between migrants of different legal statuses is detected, instructive migrant-vs.-native differences in method choice emerge. The findings underscore the importance of migrants’ legal status, along with their other characteristics, for a better understanding of their reproductive behavior and for more effective corresponding policies. The study offers pioneering insights into the intersection of migration, legality, and fertility in contemporary Russia and contributes to the cross-national scholarship on migration and reproductive behavior and health.
+abstract: South Korea was among the first countries to report both an abnormally high sex ratio at birth (SRB) and its subsequent normalization. We examine the role of son preference in driving fertility intentions during a period of declining SRB and consider the contribution of individual characteristics and broader social context to explaining changes in intentions. We employ data from the National Survey on Fertility, Family Health and Welfare that span 1991\textendash 2012. We find that reported son preference declined to a great extent but remained substantial by the end of the observation period, and that the intention to have a third child still differed by sex of existing children. Change in individual-level factors does not explain the decline in son preference, suggesting that broad social changes were also important. This study provides a better understanding of how son preference evolves in the post-transitional context of very low fertility.
 
 # Summary. An optional shortened abstract.
 summary: 

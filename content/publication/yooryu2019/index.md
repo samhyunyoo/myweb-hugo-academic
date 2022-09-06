@@ -1,21 +1,20 @@
 ---
-title: 'Migration, legality, and fertility regulation: Abortion and contraception among migrants and natives in Russia'
+title: '국제결혼 부부의 이혼분석'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Victor Agadjanian
   - admin
+  - 유정균
 
 # Author notes (optional)
 author_notes:
-  - 'corresponding author'
   - ''
 
 
-date: '2018-04-01T00:00:00Z'
-doi: '10.4054/DemRes.2018.38.42'
+date: '2019-09-01T00:00:00Z'
+doi: '10.31693/KJPS.2019.06.42.2.25'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,10 +26,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 38(42), 1277-1302
-publication_short: In *APS*
+publication: In *한국인구학* 42(2), 25-50 
+publication_short: 
 
-abstract: Migrant-vs.-native differentials in reproductive behavior are typically examined through the prism of socioeconomic and cultural constraints that characterize the migration process and experiences. However, the literature seldom factors in migrant legal status because necessary data is rarely available. The study seeks to fill this important gap by looking at variations in induced abortion and contraceptive use not only between migrants and nonmigrants but also among migrants of different legal statuses in the Russian Federation. We use unique survey data collected in urban Russia from Central Asian working migrant women of different legal statuses – regularized vs. irregular – as well as their native counterparts. Binomial and multinomial logistic regressions are fitted to model abortion experience and current contraceptive use and method choice. The results point to higher overall use of abortion among natives, but also to significant differences between migrants with regularized and irregular legal statuses. With respect to contraception, while no variation in overall use between migrants and natives or between migrants of different legal statuses is detected, instructive migrant-vs.-native differences in method choice emerge. The findings underscore the importance of migrants’ legal status, along with their other characteristics, for a better understanding of their reproductive behavior and for more effective corresponding policies. The study offers pioneering insights into the intersection of migration, legality, and fertility in contemporary Russia and contributes to the cross-national scholarship on migration and reproductive behavior and health.
+abstract: 국제결혼 부부의 결혼안정성은 외국인 배우자의 적응과 사회적 통합이라는 측면에서 중요한의미를 갖는다. 이 논문은 우리 사회에서 한국인과 외국인의 결합으로 구성된 국제결혼 부부의결혼안정성이 한국인끼리 결합된 한국인 부부와 구별되는지를 확인하고 그 인과관계를 좀 더이해하기 위한 것이다. 2010-2016년 혼인과 이혼 동태통계 원자료를 활용하여 2010년 결혼코호트를 대상으로 이혼까지 걸린 시간을 이산시간위험모형(discrete-time hazard model)을 통해 분석하였다. 분석결과 남편 또는 아내의 출생국적이 한국이 아닌 외국일 경우 각각 양측 모두 한국인인 부부에 비해 이혼위험이 높은 것으로 나타났다. 남편 보다는 아내가 외국인일 경우 이혼위험이 상대적으로 더 높았으며, 남편과 아내의 교육수준과 혼인연령을 고려할 경우 두 집단의이혼위험 차이가 크게 감소하였다. 특히 외국인 남편과 아내의 출신 국적별로 세분화하였을 때, 남편의 출생국적이 미국, 아내의 출생국적인 베트남이나 캄보디아인 경우 한국인 남편과 아내보다 오히려 더 낮은 이혼위험을 갖는 것으로 나타났다. 논문의 결과는 국제결혼이 당연히 높은이혼위험과 연관되는 것은 아니며 출신국적과 혼인연령, 교육수준 등 다양한 요인을 함께 고려해야 함을 재확인시켜주고 있다.
 
 # Summary. An optional shortened abstract.
 summary: 

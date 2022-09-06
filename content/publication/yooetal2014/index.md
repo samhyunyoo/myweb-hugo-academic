@@ -1,21 +1,21 @@
 ---
-title: 'Migration, legality, and fertility regulation: Abortion and contraception among migrants and natives in Russia'
+title: 'Understanding the Complexity of Ambivalence Toward Pregnancy: Does It Predict Inconsistent Use of Contraception?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Victor Agadjanian
   - admin
+  - Karren B. Guzzo
+  - Sarah R. Hayford
 
 # Author notes (optional)
 author_notes:
-  - 'corresponding author'
   - ''
 
 
-date: '2018-04-01T00:00:00Z'
-doi: '10.4054/DemRes.2018.38.42'
+date: '2014-03-01T00:00:00Z'
+doi: 'https://doi.org/10.1080/19485565.2014.905193'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,10 +27,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 38(42), 1277-1302
-publication_short: In *APS*
+publication: In *Biodemography and Social Biology* 60(1), 49-66.
+publication_short: 
 
-abstract: Migrant-vs.-native differentials in reproductive behavior are typically examined through the prism of socioeconomic and cultural constraints that characterize the migration process and experiences. However, the literature seldom factors in migrant legal status because necessary data is rarely available. The study seeks to fill this important gap by looking at variations in induced abortion and contraceptive use not only between migrants and nonmigrants but also among migrants of different legal statuses in the Russian Federation. We use unique survey data collected in urban Russia from Central Asian working migrant women of different legal statuses – regularized vs. irregular – as well as their native counterparts. Binomial and multinomial logistic regressions are fitted to model abortion experience and current contraceptive use and method choice. The results point to higher overall use of abortion among natives, but also to significant differences between migrants with regularized and irregular legal statuses. With respect to contraception, while no variation in overall use between migrants and natives or between migrants of different legal statuses is detected, instructive migrant-vs.-native differences in method choice emerge. The findings underscore the importance of migrants’ legal status, along with their other characteristics, for a better understanding of their reproductive behavior and for more effective corresponding policies. The study offers pioneering insights into the intersection of migration, legality, and fertility in contemporary Russia and contributes to the cross-national scholarship on migration and reproductive behavior and health.
+abstract: Ambivalence towards future pregnancy is common and may increase the risk of unprotected sex and unintended pregnancy. We propose that ambivalent attitudes toward pregnancy consist of subtypes that are differentially associated with contraceptive use. Using data from a nationally representative survey of unmarried young adults (N = 1,147), we constructed four categories of ambivalence based on attitudes toward a hypothetical pregnancy. Multivariate analyses examined characteristics of ambivalence and the association between ambivalence and contraceptive use. Approximately one third of sexually active unmarried young adults are ambivalent about pregnancy. Having positive ambivalence (important to avoid a pregnancy but would be happy if it occurred) is associated with age, gender, education, and Hispanic origin. Although ambivalence toward pregnancy is associated with lower contraceptive use, this is true only among women with negative ambivalence (not important to avoid a pregnancy but would be unhappy if a pregnancy occurred). Attitudes toward pregnancy are multifaceted, and a more nuanced understanding of women’s attitudes toward pregnancy can help target prevention programs and related policies for women at risk of unintended pregnancy.
 
 # Summary. An optional shortened abstract.
 summary: 

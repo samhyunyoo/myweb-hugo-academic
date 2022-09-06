@@ -1,21 +1,20 @@
 ---
-title: 'Migration, legality, and fertility regulation: Abortion and contraception among migrants and natives in Russia'
+title: 'The paradox of change: Religion and fertility decline in South Korea'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Victor Agadjanian
   - admin
+  - Victor Agadjanian
 
 # Author notes (optional)
 author_notes:
-  - 'corresponding author'
   - ''
 
 
-date: '2018-04-01T00:00:00Z'
-doi: '10.4054/DemRes.2018.38.42'
+date: '2021-03-01T00:00:00Z'
+doi: '10.4054/DemRes.2021.44.23'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,15 +26,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 38(42), 1277-1302
-publication_short: In *APS*
+publication: In *Demographic Research* 44(23), 537-562
+publication_short: 
 
-abstract: Migrant-vs.-native differentials in reproductive behavior are typically examined through the prism of socioeconomic and cultural constraints that characterize the migration process and experiences. However, the literature seldom factors in migrant legal status because necessary data is rarely available. The study seeks to fill this important gap by looking at variations in induced abortion and contraceptive use not only between migrants and nonmigrants but also among migrants of different legal statuses in the Russian Federation. We use unique survey data collected in urban Russia from Central Asian working migrant women of different legal statuses – regularized vs. irregular – as well as their native counterparts. Binomial and multinomial logistic regressions are fitted to model abortion experience and current contraceptive use and method choice. The results point to higher overall use of abortion among natives, but also to significant differences between migrants with regularized and irregular legal statuses. With respect to contraception, while no variation in overall use between migrants and natives or between migrants of different legal statuses is detected, instructive migrant-vs.-native differences in method choice emerge. The findings underscore the importance of migrants’ legal status, along with their other characteristics, for a better understanding of their reproductive behavior and for more effective corresponding policies. The study offers pioneering insights into the intersection of migration, legality, and fertility in contemporary Russia and contributes to the cross-national scholarship on migration and reproductive behavior and health.
+abstract: The scholarship on the association of religion and fertility has paid relatively little attention to East Asia, a region that has experienced rapid fertility declines. South Korea is an important setting to study this association as its fertility decreased dramatically and its population includes sizable shares of Buddhists, Catholics, and Protestants, as well as a large nonreligious segment. We analyze patterns of religious differentials in fertility and their changes between the era of near-replacement fertility and that of lowest-low fertility by relating these changing patterns to massive and rapid socioeconomic and cultural shifts in South Korean society. Using the pooled data from the 1985, 2005, and 2015 census samples, which cover the period of falling fertility first to near replacement and then to far below replacement levels, we fit zero-inflated Poisson models to test for differences in the number of children ever born between women with a religious affiliation and those without one as well as across religious affiliations. The findings shed light on the dynamic nature of the association between religious affiliation and reproduction in contexts of rapid and radical societal transformation by illustrating how evolving cultural meanings of religion may impact fertility outcomes. The Korean experience advances our understanding of the dynamic relationship between religion and fertility in the transition from high to low birth rates.
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: [Buddhism, Christianity, fertility, Korea, religion]
 
 # Display this page in the Featured widget?
 featured: true

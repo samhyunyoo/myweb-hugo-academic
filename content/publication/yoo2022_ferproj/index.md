@@ -1,21 +1,19 @@
 ---
-title: 'Migration, legality, and fertility regulation: Abortion and contraception among migrants and natives in Russia'
+title: '출산의 지연변천 분석과 완결출산율 추계'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Victor Agadjanian
   - admin
 
 # Author notes (optional)
 author_notes:
-  - 'corresponding author'
   - ''
 
 
-date: '2018-04-01T00:00:00Z'
-doi: '10.4054/DemRes.2018.38.42'
+date: '2022-03-01T00:00:00Z'
+doi: '10.22886/jkos.2022.27.1.29'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 38(42), 1277-1302
-publication_short: In *APS*
+publication: In *통계연구*, 27(1), 29-55
+publication_short:  
 
-abstract: Migrant-vs.-native differentials in reproductive behavior are typically examined through the prism of socioeconomic and cultural constraints that characterize the migration process and experiences. However, the literature seldom factors in migrant legal status because necessary data is rarely available. The study seeks to fill this important gap by looking at variations in induced abortion and contraceptive use not only between migrants and nonmigrants but also among migrants of different legal statuses in the Russian Federation. We use unique survey data collected in urban Russia from Central Asian working migrant women of different legal statuses – regularized vs. irregular – as well as their native counterparts. Binomial and multinomial logistic regressions are fitted to model abortion experience and current contraceptive use and method choice. The results point to higher overall use of abortion among natives, but also to significant differences between migrants with regularized and irregular legal statuses. With respect to contraception, while no variation in overall use between migrants and natives or between migrants of different legal statuses is detected, instructive migrant-vs.-native differences in method choice emerge. The findings underscore the importance of migrants’ legal status, along with their other characteristics, for a better understanding of their reproductive behavior and for more effective corresponding policies. The study offers pioneering insights into the intersection of migration, legality, and fertility in contemporary Russia and contributes to the cross-national scholarship on migration and reproductive behavior and health.
+abstract: 출산의 지연변천(postponement transition of fertility)은 저출산 사회의 출산율 변동을 출산연령의 증가와 출산수준의 복잡한 상호작용으로 설명하는 인구학적 개념이다. 이 연구는 출산의 지연변천을 한국 사회에 적용하여 코호트 관점에서 분석하고, 그 결과를 토대로 코호트 완결출산율을 전망한다. 1981∼2020년 출생신고자료와 추계인구를 사용하여 준거모형과 관계모형 등 세부 분석방법을 적용하였다. 연구결과, 한국 사회에서 1969년 출생코호트 이후 출산의 지연변천이 진행되어 왔음을 확인하였다. 1969년 출생코호트 대비 후행 출생코호트에서 20대의 출산율 감소가 지속되는 반면, 30대 이후 출산율 반등은 상대적으로 제한적인 수준에 머무르고 있었다. 출산지연과 회복의 전개과정이 현 수준으로 유지될 경우 1980년대에 출생한 코호트에서도 완결출산율 하락이 지속될 것으로 전망된다. 이 연구는 출산의 지연과 회복 과정을 실증적으로 분석하고, 출산율 변동에 관해 코호트 논의에 기여한 의의가 있다.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -57,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Projected cohort fertility by scenario'
   focal_point: ''
   preview_only: false
 

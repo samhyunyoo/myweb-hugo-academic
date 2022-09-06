@@ -1,21 +1,19 @@
 ---
-title: 'Migration, legality, and fertility regulation: Abortion and contraception among migrants and natives in Russia'
+title: 'Total number of births shrinking faster than fertility rates: fertility quantum decline and shrinking generation size in South Korea'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Victor Agadjanian
   - admin
 
 # Author notes (optional)
 author_notes:
-  - 'corresponding author'
   - ''
 
 
-date: '2018-04-01T00:00:00Z'
-doi: '10.4054/DemRes.2018.38.42'
+date: '2022-03-01T00:00:00Z'
+doi: 'https://doi.org/10.1080/17441730.2022.2054090'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -27,10 +25,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Demographic Research* 38(42), 1277-1302
-publication_short: In *APS*
+publication: In *Asian Population Studies* Online  
+publication_short: 
 
-abstract: Migrant-vs.-native differentials in reproductive behavior are typically examined through the prism of socioeconomic and cultural constraints that characterize the migration process and experiences. However, the literature seldom factors in migrant legal status because necessary data is rarely available. The study seeks to fill this important gap by looking at variations in induced abortion and contraceptive use not only between migrants and nonmigrants but also among migrants of different legal statuses in the Russian Federation. We use unique survey data collected in urban Russia from Central Asian working migrant women of different legal statuses – regularized vs. irregular – as well as their native counterparts. Binomial and multinomial logistic regressions are fitted to model abortion experience and current contraceptive use and method choice. The results point to higher overall use of abortion among natives, but also to significant differences between migrants with regularized and irregular legal statuses. With respect to contraception, while no variation in overall use between migrants and natives or between migrants of different legal statuses is detected, instructive migrant-vs.-native differences in method choice emerge. The findings underscore the importance of migrants’ legal status, along with their other characteristics, for a better understanding of their reproductive behavior and for more effective corresponding policies. The study offers pioneering insights into the intersection of migration, legality, and fertility in contemporary Russia and contributes to the cross-national scholarship on migration and reproductive behavior and health.
+abstract: South Korea’s total fertility rate reached 1.3 in 2001 and hit a record low (0.92) in 2019. The total number of births shrank even faster, recording a 45.9 per cent drop between 2001 and 2019. To understand the declining births and the contributing demographic factors, I decompose the change in the birth rate into mean generation size, fertility quantum, and tempo distortions, and evaluate their relative contributions to the decline. The remarkable birth decline since 2001 is largely explained by fertility quantum decline, especially for second births, and shrinking generation size caused by the decline in female population size. Tempo distortions were strong, but given the marginal change since 2001, they contributed less and only in recent years. This study highlights unique features of East Asia’s low fertility, such as continued fertility decline and the long-term negative effects of reproducing generations’ low fertility. Findings might have implications for developing countries experiencing rapid fertility decline.
 
 # Summary. An optional shortened abstract.
 summary: 
