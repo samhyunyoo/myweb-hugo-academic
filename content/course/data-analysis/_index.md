@@ -40,6 +40,14 @@ Upon successful completion of this course, students will
 - Have practical knowledge and senses of how to present quantitative data through effective graphs and figures.
 - Gain on hands-on skills and experience with R and RStudio (especially tidyverse packages).
 
+### Course syllabus 
+
+Please check [Course syllabus]
+
+### Course slides 
+
+
+
 ## Installation
 
 ### 0. Prior 
@@ -55,6 +63,7 @@ There are several things to do before installation, especially if you are going 
 - Therefore, I recommend you uninstall it before installing R. 
     
 You can just uninstall it **_Add or remove programs_** like any other program -- Please refer to the [link](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+For those who want to maintain `OneDrive`, please visit the webpage below and then follow instructions: [here](https://medium.com/@ValidScience/how-to-fix-rstudios-package-installation-on-windows-10-c1e602bf3a1f) 
     
     
 0.2. Usernames with Latin characters 
