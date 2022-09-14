@@ -172,6 +172,24 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 
 5.2. sign up and open your account at `github.com`
 
+## 6. Install `Rtools`, if necessary 
+
+Rtools is needed to install R packages from source. 
+This is usually for developer versions, but also quite popular among R users. 
+Rtools warning message often appears when you install a new package. 
+It is recommended to install Rtools for most users, especially for Windows users.
+
+6.1. Please go to the following link (a webpage of CRAN)  
+
+- [https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html](https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html)
+    
+6.2. Click and download the "Rtools42 installer"
+
+6.3. Then, execute the downloaded installer. 
+    
+Once the Rtools42 is installed, the Rtools warning message should be gone when you install a new package. 
+Please let me know if it is not successful or if you keep seeing errors. 
+
 ### More 
 
 Here are some links that cover the topic of installation and update of R on different OSs. 
