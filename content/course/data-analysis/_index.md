@@ -172,7 +172,7 @@ In such a process, R uses `LaTeX`, an open-source special scientific typesetting
 
 5.2. sign up and open your account at `github.com`
 
-## 6. Install `Rtools`, if necessary 
+### 6. Install `Rtools`, if necessary 
 
 Rtools is needed to install R packages from source. 
 This is usually for developer versions, but also quite popular among R users. 
