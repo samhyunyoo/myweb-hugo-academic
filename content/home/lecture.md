@@ -11,7 +11,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 140
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title: Lecture
