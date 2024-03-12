@@ -28,5 +28,8 @@ Courses at Hanyang Univeristy
     - Introduction to Population Studies
     - Special Topics on Demography 
 
-- Graduate courses 
+- Graduate courses
+    - Demography with R
+    - Seminars on Population Studies
+    - Advanced Social Statistics: Event-History Analysis
     - Statistical Analysis & Academic Writings
