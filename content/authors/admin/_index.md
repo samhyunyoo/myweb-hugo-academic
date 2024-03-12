@@ -6,7 +6,7 @@ title: Sam Hyun Yoo
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Sociology
+role: Associate Professor of Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-Sam Hyun Yoo is an assistant professor at the Department of Sociology, Hanyang University, Seoul, South Korea. His research interests are fertility and family dynamics, demographic and quantitative methods, and data science. In the last decades, he has studied marriage and fertility in South Korea with demographic perspectives. In recent days, he spend more time on learning R and data science.
+Sam Hyun Yoo is an associate professor at the Department of Sociology, Hanyang University, Seoul, South Korea. His research interests are fertility and family dynamics, demographic and quantitative methods, and data science. In the last decades, he has studied marriage and fertility in South Korea with demographic perspectives. In recent days, he spend more time on learning R and data science.
 
 {{< icon name="download" pack="fas" >}} Download Dr.Yoo's {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
