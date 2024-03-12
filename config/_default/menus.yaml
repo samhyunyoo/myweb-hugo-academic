@@ -31,7 +31,7 @@ main:
     parent: Courses
   - name: Lecture
     url: '#lecture'
-    weight: 80
+    weight: 60
   - name: CV
     url: uploads/CV.pdf
     weight: 80
