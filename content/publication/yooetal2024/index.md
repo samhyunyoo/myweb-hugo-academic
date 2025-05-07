@@ -27,10 +27,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Population Research and Policy Review* 36, 25-54
+publication: In *통계연구* 29(3), 45-65
 publication_short: 
 
-abstract: South Korea was among the first countries to report both an abnormally high sex ratio at birth (SRB) and its subsequent normalization. We examine the role of son preference in driving fertility intentions during a period of declining SRB and consider the contribution of individual characteristics and broader social context to explaining changes in intentions. We employ data from the National Survey on Fertility, Family Health and Welfare that span 1991\textendash 2012. We find that reported son preference declined to a great extent but remained substantial by the end of the observation period, and that the intention to have a third child still differed by sex of existing children. Change in individual-level factors does not explain the decline in son preference, suggesting that broad social changes were also important. This study provides a better understanding of how son preference evolves in the post-transitional context of very low fertility.
+abstract: Despite growing concerns on low fertility, little is known about male fertility in South Korea.
+This study explores the fertility levels of men in South Korea using birth registration data between 1998 and 2019. We calculate the total fertility rate (TFR) of male and mean age at fatherhood (MAF), comparing them with female TFR and mean age at childbearing (MAC).
+We also divide the country into metropolitan, mid-sized cities and rural area to compare differences in TFR and MAF, and conduct a decomposition analysis of changes in TFR. The findings show that men's TFR is slightly lower than women's, while men's MAF is 2.7-3.0 years higher than women’s MAC, with minor variations. Unlike women, whose TFR and MAC correlate with urbanization, men's TFR and mean age at fatherhood showed inconsistent patterns. Since the mid-2010s, the highest TFR for men was in mid-sized cities, followed by rural areas and metropolitan areas. The mean age at fatherhood was highest in metropolitan areas, followed by rural and mid-sized cities. Despite regional population movements, changes in male TFR from 1998 to 2019 were mainly due to fertility rate effects.
+Understanding the quantum and tempo of male fertility offers distinct insights into the causes and consequences of fertility change in a society.
 
 # Summary. An optional shortened abstract.
 summary: 
