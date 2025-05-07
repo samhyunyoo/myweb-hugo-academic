@@ -29,6 +29,9 @@ main:
     PageRef: course/data-analysis/_index.md
     weight: 10
     parent: Courses
+  - name: Lecture
+    url: '#lecture'
+    weight: 60
   - name: CV
     url: uploads/CV.pdf
     weight: 80

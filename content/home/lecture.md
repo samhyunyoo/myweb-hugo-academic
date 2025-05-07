@@ -11,25 +11,15 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 140
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title: Teaching
+title: Lecture
 subtitle: ''
-
 ---
 
-Courses at Hanyang Univeristy 
+Lecture Slides 
 
-- Undergraduate courses 
-    - [Data Analysis](../course/data-analysis/) 
-    - Social Problems
-    - Practice in Social Surveys
-    - Introduction to Population Studies
-    - Special Topics on Demography 
-
-- Graduate courses
-    - Demography with R
-    - Seminars on Population Studies
-    - Advanced Social Statistics: Event-History Analysis
-    - Statistical Analysis & Academic Writings
+- Demography with R 
+    - Ch00. Introduction to R & RStudio
+    - Ch01. Demography 
