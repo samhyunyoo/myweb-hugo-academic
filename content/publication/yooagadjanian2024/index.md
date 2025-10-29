@@ -6,6 +6,7 @@ title: 'Drought and migration: a case study of rural Mozambique'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Victor Agadjanian
 
 # Author notes (optional)
 author_notes:
@@ -16,7 +17,7 @@ date: '2024-01-05T00:00:00Z'
 doi: 'https://doi.org/10.1007/s11111-023-00444-1'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +27,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Population and Environment* 46(3)
-publication_short: Popul Environ
+publication_short: Popul Environ 46(3)
 
 abstract: Migration is commonly seen as a last resort for households impacted by climate shocks, given the costs and risks that migration typically entails. However, pre-existing labor migration channels may facilitate immediate migration decisions in response to climate shocks. This study explores the relationship between migration and droughts in a rural Sub-Saharan setting from which men commonly migrate in search of non-agricultural employment. We use data from the Men’s Migrations and Women’s Lives project, which includes a longitudinal household panel conducted in rural Mozambique between 2006 and 2017, and combine it with the Standardized Precipitation Evapotranspiration Index, a high-resolution climate measure. The fixed-effect models assess the lagged impact of droughts on the labor migration status of male household heads. We find an immediate increase in migration following a drought, peaking in the first year, then diminishing in the second year, with a slight resurgence in the third year. However, by the sixth-year post-drought, the likelihood of being a migrant turns negative. These findings demonstrate the complex associations of climate shocks with labor migration in low-income rural settings.
 # Summary. An optional shortened abstract.

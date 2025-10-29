@@ -14,7 +14,7 @@ organizations:
     url: https://www.hanyang.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fertility and family dynamics, demographic and quantitative methods, and data science.
 
 # Interests to show in About widget
 interests:

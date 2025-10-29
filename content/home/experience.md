@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Professor, Department of Sociology 
+    company: Hanyang University 
+    company_url: 'https://www.hanyang.ac.kr/'
+    company_logo: 
+    location: Seoul, South Korea
+    date_start: '2024-03-01'
+    date_end: ''
+    description: Deputy director, Hanyang Institute of Population and Policy Research
   - title: Assistant Professor 
     company: Hanyang University 
     company_url: 'https://www.hanyang.ac.kr/'
     company_logo: 
     location: Seoul, South Korea
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2024-02-28'
     description: Department of Sociology 
     
   - title: Assistant Professor 
