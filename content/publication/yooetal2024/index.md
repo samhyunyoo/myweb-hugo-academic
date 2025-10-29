@@ -14,7 +14,7 @@ author_notes:
   - ''
 
 
-date: '2024-09-31T00:00:00Z'
+date: '2024-09-30T00:00:00Z'
 doi: '10.22886/jkos.2024.29.3.45'
 
 # Schedule page publish date (NOT publication's date).
