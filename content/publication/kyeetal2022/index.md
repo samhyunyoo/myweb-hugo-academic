@@ -5,7 +5,9 @@ title: '유배우 출산율 변화, 2005~2020: 혼인지속 기간 접근'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - 계봉오 
   - admin
+  - 최슬기
 
 # Author notes (optional)
 author_notes:
