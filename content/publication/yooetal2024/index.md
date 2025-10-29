@@ -18,7 +18,7 @@ date: '2024-09-30T00:00:00Z'
 doi: '10.22886/jkos.2024.29.3.45'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2024-09-30T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *통계연구* 29(3), 45-65
+publication: "통계연구 29(3), 45-65""
 publication_short: 
 
 abstract: Despite growing concerns on low fertility, little is known about male fertility in South Korea.
