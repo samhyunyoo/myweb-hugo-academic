@@ -27,7 +27,7 @@ publishDate: '2024-09-30T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "통계연구 29(3), 45-65""
+publication: "통계연구 29(3), 45-65"
 publication_short: 
 
 abstract: Despite growing concerns on low fertility, little is known about male fertility in South Korea.
